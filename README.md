@@ -22,7 +22,9 @@
 
 - So whenever you run the notebooks after downloading the datasets from kaggle,  just run them once and you will get the **latest report** of the vaccination progress.
 
-- The EDA Notebook can be found at [**`Covid-19 Analysis.ipynb`**]() 
+- The EDA Notebook can be found at [**`Covid-19 Analysis.ipynb`**](https://github.com/HirenRupchandani/Covid-19-Analysis/blob/main/Covid_19_Analysis.ipynb) 
+  
+- You can also download the ouputs for all the questions from this [**link**](https://github.com/HirenRupchandani/Covid-19-Analysis/blob/main/Reports%20and%20Outputs.zip)
 
 <a  id = Section2></a>
 
